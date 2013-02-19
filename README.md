@@ -9,4 +9,4 @@ This project contains a template for an Android application. It utilizes the Hol
 Screenshots
 -
 
-![Alt image](./Screenshot1) ![Alt image](./Screenshot1)
+![Alt image](Screenshot1) ![Alt image](Screenshot2)
