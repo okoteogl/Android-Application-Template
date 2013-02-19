@@ -9,4 +9,8 @@ This project contains a template for an Android application. It utilizes the Hol
 Screenshots
 -
 
-![Alt image](Screenshot1) ![Alt image](Screenshot2)
+<p align="center">
+  src="C:/Users/olga/projects/Screenshot1"
+</p>
+
+
