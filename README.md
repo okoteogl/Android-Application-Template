@@ -9,6 +9,6 @@ This project contains a template for an Android application. It utilizes the Hol
 Screenshots
 -
 
-<img border="0" src="Screenshot1.png" alt="Initial screen" width="350" height="622" img border="0" > <img border="0" src="Screenshot2.png" alt="Pushing one of the bottom menu buttons" width="350" height="622" img border="5">
+<img border="0" src="Screenshot1.png" alt="Initial screen" width="350" height="622" img border="0" > &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img border="0" src="Screenshot2.png" alt="Pushing one of the bottom menu buttons" width="350" height="622" img border="5">
 
 
