@@ -9,13 +9,13 @@
     <string name="title_bar_button2">button2</string>
     <string name="title_bar_button3">button3</string>
     
-    <string name="menu_button1">bottom_button1</string>
-    <string name="menu_button2">bottom_button2</string>
-    <string name="menu_button3">bottom_button3</string>
-    <string name="menu_button4">bottom_button4</string>
-    <string name="menu_button5">bottom_button5</string>
-    <string name="menu_button6">bottom_button6</string>
-    <string name="menu_button7">bottom_button7</string>
-    <string name="menu_button8">bottom_button8</string>
+    <string name="menu_button1">batman</string>
+    <string name="menu_button2">bane</string>
+    <string name="menu_button3">catwoman</string>
+    <string name="menu_button4">robin</string>
+    <string name="menu_button5">superman</string>
+    <string name="menu_button6">aquaman</string>
+    <string name="menu_button7">spiderman</string>
+    <string name="menu_button8">thor</string>
     
 </resources>

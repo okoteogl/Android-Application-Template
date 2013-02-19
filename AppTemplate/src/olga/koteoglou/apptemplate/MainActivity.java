@@ -50,6 +50,55 @@ public class MainActivity extends Activity {
 				tx.setText(R.string.menu_button1);
 			}
 		});
+		((ImageButton) findViewById(R.id.Button2))
+		.setOnClickListener(new OnClickListener() {
+			public void onClick(View arg0) {
+				TextView tx = (TextView)findViewById(R.id.text_view);
+				tx.setText(R.string.menu_button2);
+			}
+		});
+		((ImageButton) findViewById(R.id.Button3))
+		.setOnClickListener(new OnClickListener() {
+			public void onClick(View arg0) {
+				TextView tx = (TextView)findViewById(R.id.text_view);
+				tx.setText(R.string.menu_button3);
+			}
+		});
+		((ImageButton) findViewById(R.id.Button4))
+		.setOnClickListener(new OnClickListener() {
+			public void onClick(View arg0) {
+				TextView tx = (TextView)findViewById(R.id.text_view);
+				tx.setText(R.string.menu_button4);
+			}
+		});
+		((ImageButton) findViewById(R.id.Button5))
+		.setOnClickListener(new OnClickListener() {
+			public void onClick(View arg0) {
+				TextView tx = (TextView)findViewById(R.id.text_view);
+				tx.setText(R.string.menu_button5);
+			}
+		});
+		((ImageButton) findViewById(R.id.Button6))
+		.setOnClickListener(new OnClickListener() {
+			public void onClick(View arg0) {
+				TextView tx = (TextView)findViewById(R.id.text_view);
+				tx.setText(R.string.menu_button6);
+			}
+		});
+		((ImageButton) findViewById(R.id.Button7))
+		.setOnClickListener(new OnClickListener() {
+			public void onClick(View arg0) {
+				TextView tx = (TextView)findViewById(R.id.text_view);
+				tx.setText(R.string.menu_button7);
+			}
+		});
+		((ImageButton) findViewById(R.id.Button8))
+		.setOnClickListener(new OnClickListener() {
+			public void onClick(View arg0) {
+				TextView tx = (TextView)findViewById(R.id.text_view);
+				tx.setText(R.string.menu_button8);
+			}
+		});
 	}
 
 	@Override
